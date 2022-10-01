@@ -8,7 +8,7 @@ for (let e of document.querySelectorAll(
 }
 let songs = [
   {
-    songNmae: "Na Cher Malangaan Nu",
+    songNmae: "Na Cher Malangaa Nu",
     songDesc: "Farhan Saeed & Aima Baig",
     filePath: "songs/song1.mp3",
     coverPath: "images/cover1.jpg",
